@@ -1,0 +1,21 @@
+package paying;
+
+import java.util.LinkedList;
+import java.util.Queue;
+
+public class Fuckyou {
+
+	public static void main(String[] args) {
+		Queue<String> q = new LinkedList<>();
+		
+		q.add("Ottawa");
+		q.add("AAS");
+		q.add("OttDDawa");
+		
+		while (q.size() > 0) {
+		System.out.println(q.remove() + "");
+		}
+	}
+	
+	
+}

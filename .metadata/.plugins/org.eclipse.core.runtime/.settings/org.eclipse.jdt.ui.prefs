@@ -1,0 +1,12 @@
+command=C\:\\Users\\Wentao Lu\\.p2\\pool\\plugins\\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_15.0.2.v20210201-0955\\jre\\bin\\javadoc.exe
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="paying.Payable"><rhs name\="paying.Invoice"/><rhs name\="paying.SalariedWaiter"/><rhs name\="paying.CommissionWaiter"/><rhs name\="paying.BasePlusCommissionWaiter"/><rhs name\="paying.HourlyWaiter"/></lhs><lhs name\="paying.Invoice"><rhs name\="paying.Invoice"/></lhs><lhs name\="paying.Waiter"><rhs name\="paying.SalariedWaiter"/><rhs name\="paying.CommissionWaiter"/><rhs name\="paying.BasePlusCommissionWaiter"/><rhs name\="paying.HourlyWaiter"/></lhs><lhs name\="paying.SalariedWaiter"><rhs name\="paying.SalariedWaiter"/></lhs><lhs name\="paying.CommissionWaiter"><rhs name\="paying.CommissionWaiter"/><rhs name\="paying.BasePlusCommissionWaiter"/></lhs><lhs name\="paying.BasePlusCommissionWaiter"><rhs name\="paying.BasePlusCommissionWaiter"/></lhs><lhs name\="paying.HourlyWaiter"><rhs name\="paying.HourlyWaiter"/></lhs><lhs name\="java.lang.Throwable"><rhs name\="java.lang.Exception"/></lhs><lhs name\="java.lang.Exception"><rhs name\="java.lang.Exception"/></lhs><lhs name\="java.util.List"><rhs name\="java.util.LinkedList"/></lhs><lhs name\="java.util.Collection"><rhs name\="java.util.LinkedList"/></lhs><lhs name\="java.lang.Iterable"><rhs name\="java.util.LinkedList"/></lhs><lhs name\="java.util.Deque"><rhs name\="java.util.LinkedList"/></lhs><lhs name\="java.util.Queue"><rhs name\="java.util.LinkedList"/></lhs><lhs name\="java.lang.Cloneable"><rhs name\="java.util.LinkedList"/></lhs><lhs name\="java.util.AbstractSequentialList"><rhs name\="java.util.LinkedList"/></lhs><lhs name\="java.util.AbstractList"><rhs name\="java.util.LinkedList"/></lhs><lhs name\="java.util.AbstractCollection"><rhs name\="java.util.LinkedList"/></lhs><lhs name\="java.util.LinkedList"><rhs name\="java.util.LinkedList"/></lhs></history>
+content_assist_number_of_computers=12
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+org.eclipse.jdt.internal.ui.navigator.layout=2
+org.eclipse.jdt.internal.ui.navigator.librariesnode=true
+org.eclipse.jdt.ui.formatterprofiles.version=21
+spelling_locale_initialized=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

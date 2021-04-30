@@ -1,0 +1,34 @@
+package paying;
+
+import java.util.Scanner;
+
+import java.util.LinkedList;
+import java.util.Queue;
+
+
+public class Fuckyou {
+
+	public static void main(String[] args) {
+		
+		int ans = 42;
+		
+		try {
+			if(ans == 42) {
+				throw new Exception("B");
+			}
+			System.out.println("Z ");
+		}
+		
+		catch (Exception e) {
+			System.out.println(e.getMessage());
+		}
+		
+		finally
+		{
+			System.out.println("G ");
+		}
+		System.out.println("A ");
+	}
+	
+	
+}

@@ -1,0 +1,17 @@
+package paying;
+
+import java.util.Scanner;
+
+import java.util.LinkedList;
+import java.util.Queue;
+
+
+public class Fuckyou {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		sc.nextInt();
+	}
+	
+	
+}

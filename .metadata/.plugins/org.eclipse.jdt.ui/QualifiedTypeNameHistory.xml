@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="paying.Invoice"/>
+    <fullyQualifiedTypeName name="paying.SalariedWaiter"/>
+    <fullyQualifiedTypeName name="paying.CommissionWaiter"/>
+    <fullyQualifiedTypeName name="paying.BasePlusCommissionWaiter"/>
+    <fullyQualifiedTypeName name="paying.HourlyWaiter"/>
+    <fullyQualifiedTypeName name="java.util.Queue"/>
+    <fullyQualifiedTypeName name="com.sun.java_cup.internal.runtime.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="java.util.LinkedList"/>
+</qualifiedTypeNameHistroy>

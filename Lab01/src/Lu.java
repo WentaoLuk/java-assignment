@@ -1,7 +1,7 @@
 import java.util.Scanner;
 /**
  * 
- * @author evan
+ * @author evan (Wentao Lu)
  *
  */
 

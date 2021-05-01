@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"lab6W","l":"BasePlusCommissionWaiter"},{"p":"lab6W","l":"CommissionWaiter"},{"p":"lab6W","l":"Date"},{"p":"lab6W","l":"HeadWaiter"},{"p":"lab6W","l":"HourlyWaiter"},{"p":"lab6W","l":"SalariedWaiter"},{"p":"lab6W","l":"Test"},{"p":"lab6W","l":"Test2"},{"p":"lab6W","l":"Waiter"}];updateSearchResults();
